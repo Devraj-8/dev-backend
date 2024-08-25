@@ -1,4 +1,6 @@
 Readme.md
+.prettierignore
+.prettierrc
 # Logs
 logs
 *.log

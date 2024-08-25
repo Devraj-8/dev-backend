@@ -16,5 +16,8 @@
   "license": "ISC",
   "dependencies": {
     "mongoose": "^8.5.4"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
   }
 }
